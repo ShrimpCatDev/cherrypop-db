@@ -5,7 +5,7 @@ end
 
 function _tick()
  t=t+1
- cls(2)
+ cls(1)
 
  for i=0,16 do
   circfill(i*8,8,math.abs(math.cos(t/10+i*0.4))*8,i%16)
