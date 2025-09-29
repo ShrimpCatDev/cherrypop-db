@@ -1,0 +1,7 @@
+#CODE
+function _tick()
+  cls(7)
+end
+#SPRITE
+
+#MAP
